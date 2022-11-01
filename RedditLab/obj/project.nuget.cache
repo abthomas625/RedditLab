@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eel+4mhOwdgQQAZzEFR9pcd6cvbZLuD3g+MZoV73ZkUsuN5qyFXpcU8GLaZX6smoe/CbPBkejRTAontMBkwaEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abilena\\source\\repos\\Week 6\\Lab\\RedditLab\\RedditLab\\RedditLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abilena\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

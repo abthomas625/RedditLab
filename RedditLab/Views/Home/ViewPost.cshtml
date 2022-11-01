@@ -1,0 +1,8 @@
+﻿@model RedditPost
+
+@foreach (Child c in Model.data.children)
+{ 
+    <p>Title: @c.data.title</p>
+    <img id="Image" src="@c.data.thumbnail"/>
+    <a href="@c.data.permalink"><p>Click here to view the original post</p></a>
+}
